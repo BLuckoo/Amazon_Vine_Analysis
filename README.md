@@ -1,5 +1,6 @@
-![image](https://user-images.githubusercontent.com/82583576/129462078-923766d8-b765-4038-a86d-364b4faf586c.png)
-
+<p align="center">
+<image src="https://user-images.githubusercontent.com/82583576/129462078-923766d8-b765-4038-a86d-364b4faf586c.png"
+</p>
 
 
 # Amazon_Vine_Analysis
