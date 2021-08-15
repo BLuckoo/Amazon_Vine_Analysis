@@ -192,7 +192,7 @@ The Vine reviews and non-Vine reviews with 5-star ratings were then extracted fr
 <image src="https://user-images.githubusercontent.com/82583576/129485925-64b65b05-00a7-4571-9748-ca6decaa5e12.png"
 </p>  
   
-The above statistical data were obtained using the "describe" function on the reviews DataFrames, as shown below:
+  The above statistical data were obtained using the "describe" function on the reviews DataFrames, as shown below:
   
 <p align="center">
 <image src="https://user-images.githubusercontent.com/82583576/129486999-829f1a70-0572-4162-8557-4d75b5f43cd3.png"
@@ -202,4 +202,4 @@ The above statistical data were obtained using the "describe" function on the re
 The average rating from Vine members is 4.11 with standard deviation of 0.95.
 The average rating from non-Vine members is 3.61 with standard deviation of 1.58.
 
-This is an indication that the Vine members tend to give higher ratings. So, the reviews indicate that there is a bias towards higher ratings from the Vine members.
+**This is an indication that the Vine members tend to give higher ratings. So, the reviews indicate that there is a bias towards higher ratings from the Vine members.**
