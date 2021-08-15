@@ -12,7 +12,7 @@ Manufacturers pay a fee to Amazon and provides free products to Amazon Vine memb
 
 This project aanalyzes product reviews written by Amazon customers, Vine members and non-Vine members to find out if there is any bias in the reviews from the Vine member reviews versus non-Vine member reviews.  
   
-Datasets containing the reviews are made public by Amazon. For the project, the dataset containing reviews of "Home Entertainment products" was used. This dataset can be found HERE https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Home_Entertainment_v1_00.tsv.gz
+Datasets containing the reviews are made public by Amazon. For the project, the dataset containing reviews of "Home Entertainment products" was used. This dataset can be found [HERE](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Home_Entertainment_v1_00.tsv.gz).
 
 The first goal for this assignment will be to perform the ETL process completely in the cloud (Google Colab) and upload a DataFrame to an RDS instance. The second goal will be to use PySpark or SQL to perform a statistical analysis of selected data.  
 
