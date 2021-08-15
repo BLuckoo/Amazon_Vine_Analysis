@@ -102,17 +102,18 @@ The 4 DataFrames were then loaded to an AWS RDS instance using PostGreSQL. The f
 
 4. The new vine_review DataFrame was then filtered for Vine members and non-Vine members by filtering on the vine variable, "Y" - vine member and "N" -non- vine member.
   
-**Vine member DataFrame**
+  *Vine members DataFrame*
   
 <p align="center">  
 <image src="https://user-images.githubusercontent.com/82583576/129481876-920616a7-69f7-4266-a08f-62a3b7655ceb.png"
 </p>
   
   
-Non-vine member DataFrame
-  
-  ![image](https://user-images.githubusercontent.com/82583576/129481911-33a0983c-40fa-483d-8d52-e149ea5d6d61.png)
-
+  Non-vine members DataFrame
+ 
+<p align="center">
+<image src="https://user-images.githubusercontent.com/82583576/129481911-33a0983c-40fa-483d-8d52-e149ea5d6d61.png"
+</p>
   
 The Vine reviews and non-Vine reviews with 5-star ratings were then extracted from this filtered DataFrame.
   
