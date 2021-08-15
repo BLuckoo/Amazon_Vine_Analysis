@@ -9,7 +9,7 @@
 
 Manufacturers pay a fee to Amazon and provides free products to Amazon Vine members so they can try the products and write reviews about these products.
 
-This project aanalyzes product reviews written by Amazon customers, Vine members and non-Vine members to find out if there is any bias in the reviews from the Vine member reviews versus non-Vine member reviews.  
+This project aanalyzes product reviews written by Amazon customers, Vine members and non-Vine members, to find out if there is any bias in the reviews from the Vine member reviews versus non-Vine member reviews.  
   
 Datasets containing the reviews are made public by Amazon. For the project, the dataset containing reviews of "Home Entertainment products" was used. 
 This dataset can be found [HERE](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Home_Entertainment_v1_00.tsv.gz). *CAUTION - this is a BIG DATA file which requires a lot of space.*
