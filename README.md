@@ -64,7 +64,14 @@ https://github.com/BLuckoo/Amazon_Vine_Analysis/blob/main/Images/AWSData.PNG
 <p align="center">  
 <image src="https://user-images.githubusercontent.com/82583576/129478270-e2758571-2ad0-48d9-8041-39cac48a41ab.PNG"
 </p>
+
   
+The 4 DataFrames were then loaded to an AWS RDS instance using PostGreSQL. The following code snippet illustrates how this was achieved.
+
+<p align="center">  
+<image src="https://user-images.githubusercontent.com/82583576/129479494-bcb7ba71-61e0-49af-bd59-83061e651a28.PNG"
+</p>  
+
   
   
 ### Summary ###
