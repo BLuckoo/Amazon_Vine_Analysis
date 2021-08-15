@@ -107,8 +107,7 @@ The 4 DataFrames were then loaded to an AWS RDS instance using PostGreSQL. The f
 <p align="center">  
 <image src="https://user-images.githubusercontent.com/82583576/129481876-920616a7-69f7-4266-a08f-62a3b7655ceb.png"
 </p>
-  
-  
+
     *Non-vine members DataFrame*
  
 <p align="center">
