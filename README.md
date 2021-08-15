@@ -20,12 +20,27 @@ PySpark was used to retrieve the reviews data using DataFrames. Filters, counts 
 
 ### Results of the analysis ###  
 
-Using Google Colab and PySpark, the reviews for Home Entertainment were imported and and loaded into a DataFrame as illustrated below.
+Using Google Colab and PySpark, the reviews for Home Entertainment were extracted and and loaded into a DataFrame as illustrated below.
+  
 https://github.com/BLuckoo/Amazon_Vine_Analysis/blob/main/Images/AWSData.PNG   
 
 ![AWSData](https://user-images.githubusercontent.com/82583576/129478139-2a41f3ae-0825-41e6-93a3-7f50b364558e.PNG)
+
+The dataset was then transformed into 4 DataFrames as shown below:
+ 
+
+![customer_id](https://user-images.githubusercontent.com/82583576/129478243-b895595e-e764-4e77-9589-45025630cbd7.PNG)
+
   
   
+![product_id](https://user-images.githubusercontent.com/82583576/129478257-57a4c838-8264-4e85-9262-5a2ecbc3eef8.PNG)
+
+  
+![review_id](https://user-images.githubusercontent.com/82583576/129478263-7fdbec3c-d06e-433c-8526-8b2f064c2818.PNG)
+
+
+![vine_id](https://user-images.githubusercontent.com/82583576/129478270-e2758571-2ad0-48d9-8041-39cac48a41ab.PNG)
+
   
   
 ### Summary ###
