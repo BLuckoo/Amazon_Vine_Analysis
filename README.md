@@ -7,9 +7,9 @@
   
 ### Overview of the analysis of the Amazon Vine program ###  
 
-Manufacturers pay a fee to Amazon and provides free products to Amazon Vine members so they can try the products and write reviews about these products.
+Manufacturers pay a fee to Amazon so that Amazon Vine members can try their products at no charge in exchange for submitting a written review.
 
-This project aanalyzes product reviews written by Amazon customers, Vine members and non-Vine members, to find out if there is any bias in the reviews from the Vine member reviews versus non-Vine member reviews.  
+This project aanalyzes product reviews written by Amazon customers: Vine members and non-Vine members. This is to find out if there is any bias in the reviews from Vine members versus non-Vine members.  
   
 Datasets containing the reviews are made public by Amazon. For the project, the dataset containing reviews of "Home Entertainment products" was used. 
 This dataset can be found [HERE](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Home_Entertainment_v1_00.tsv.gz). *CAUTION - this is a BIG DATA file which requires a lot of space.*
@@ -181,8 +181,9 @@ The Vine reviews and non-Vine reviews with 5-star ratings were then extracted fr
 ##    
 ### Summary ###
   
-- There is approximately a 5% difference of 5-star reviews in Vine to non-Vine reviews (40.61% to 45.34%).
-- The number of Vine reviews is quite low, 1.07% of the total number of reviews. And out of the total number of 5-star ratings reviews, only 0.44% is accounted for by the Vine reviews.
+- There is approximately a 5 point difference in 5-star reviews from Vine to non-Vine reviews (40.61% to 45.34%).
+- The number of Vine reviews is quite low, making up 1.07% of the total number of reviews. 
+- Of the total number of 5-star ratings reviews, only 0.44% is accounted for by the Vine reviews.
 - Within the total sample of reviews, the small proportion (1.07%) of 5-star reviews from the Vine members will not create a bias.
 - Amongst the Vine members, the 5-star ratings amount to 40.61% of the Vine ratings. This relatively high percentage could indicate some bias. 
   
