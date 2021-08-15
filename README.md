@@ -32,7 +32,7 @@ https://github.com/BLuckoo/Amazon_Vine_Analysis/blob/main/Images/AWSData.PNG
   
 **The dataset was then transformed into 4 DataFrames as shown below:**
  
-1. The customer_id DataFrame was created by grouping the customer_id and counting the number of reviews by customer_id using the aggregate funstion in Python.
+1. The customer_id DataFrame was created by grouping the customer_id and counting the number of reviews by customer_id using the aggregate function in Python.
 
   
 <p align="center">  
