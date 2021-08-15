@@ -109,6 +109,8 @@ The 4 DataFrames were then loaded to an AWS RDS instance using PostGreSQL. The f
 </p>
 
   
+ 
+  
    *Non-Vine members DataFrame*
   
 <p align="center">
@@ -130,6 +132,13 @@ The Vine reviews and non-Vine reviews with 5-star ratings were then extracted fr
   <image src="https://user-images.githubusercontent.com/82583576/129484143-a66a0fc6-4ef7-4039-a13b-857f0781e819.png"
   </p>
   
+    
+## ***The total number of paid Vine reviews was 261.***
+  
+  This was extracted using the folloiwng count function on the paid_vine_review DataFrame.
+  
+  ![image](https://user-images.githubusercontent.com/82583576/129484347-d92d2d5b-24b9-4caa-b8fd-2505a71122bc.png)
+
     
 ### Summary ###
   
