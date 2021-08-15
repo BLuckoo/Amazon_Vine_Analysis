@@ -194,9 +194,9 @@ The Vine reviews and non-Vine reviews with 5-star ratings were then extracted fr
   
 The above statistical data were obtained using the "describe" function on the reviews DataFrames, as shown below:
   
-
+<p align="center">
 <image src="https://user-images.githubusercontent.com/82583576/129486999-829f1a70-0572-4162-8557-4d75b5f43cd3.png"
-
+</p>
   
 
 Although the number of Vine reviews is pretty low, so far it can still represent the product. However, the average rating from Vine customers is 4.38 with std deviation of 0.78, and this is much higher than the 3.77 from non-Vine customers.
