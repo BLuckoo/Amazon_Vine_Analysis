@@ -38,12 +38,14 @@ https://github.com/BLuckoo/Amazon_Vine_Analysis/blob/main/Images/AWSData.PNG
   
 
   
+
   
 2. The products DataFrame was created by selecting "product_id" and "product_title" from the reviews DataFrame and the "drop_duplicates" function was used to retrieve only unique product_ids from the reviews DataFrame.
   
 <p align="center">   
 <image src="https://user-images.githubusercontent.com/82583576/129478257-57a4c838-8264-4e85-9262-5a2ecbc3eef8.PNG"
 </p>
+
 
 
   
@@ -54,8 +56,9 @@ https://github.com/BLuckoo/Amazon_Vine_Analysis/blob/main/Images/AWSData.PNG
 </p>
 
   
+ 
   
-4.  
+4. The "vine" DataFrame containing data with regards to the reviews ratings, votes and whether the reviews are from Vine Members or not, was created using the "select" function on the reviews dataset. 
   
 <p align="center">  
 <image src="https://user-images.githubusercontent.com/82583576/129478270-e2758571-2ad0-48d9-8041-39cac48a41ab.PNG"
