@@ -131,14 +131,24 @@ The Vine reviews and non-Vine reviews with 5-star ratings were then extracted fr
   <p align="center">
   <image src="https://user-images.githubusercontent.com/82583576/129484143-a66a0fc6-4ef7-4039-a13b-857f0781e819.png"
   </p>
-  
+ 
     
-## ***The total number of paid Vine reviews was 261.***
+    
+    
+## ***The total number of Vine reviews was 261.***
   
   This was extracted using the folloiwng count function on the paid_vine_review DataFrame.
   
   ![image](https://user-images.githubusercontent.com/82583576/129484347-d92d2d5b-24b9-4caa-b8fd-2505a71122bc.png)
 
+
+## ***The total number of non-Vine reviews was 24,040.***
+    
+   This was extracted using the following count function on the unpaid_vine_review DataFrame.
+    
+   ![image](https://user-images.githubusercontent.com/82583576/129484531-5f1d2d4f-e7d1-4aa4-99bd-6e48e65e4651.png)
+
+    
     
 ### Summary ###
   
