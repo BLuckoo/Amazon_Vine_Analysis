@@ -133,20 +133,52 @@ The Vine reviews and non-Vine reviews with 5-star ratings were then extracted fr
   </p>
  
     
+##   
+##    
+    
+##  The following table summarizes the number Vine and non-Vine reviews:  
+ 
+  <p align="center">	
+  <image src="https://user-images.githubusercontent.com/82583576/129484766-5cf04440-8c25-47c9-b38f-b47a9f84d07c.png"
+  </p>
     
     
-## ***The total number of Vine reviews was 261.***
   
-  This was extracted using the folloiwng count function on the paid_vine_review DataFrame.
+  ***This was extracted using the following count functions on the multiple vine_review DataFrames as illustrated below:***
+ 
+ ![image](https://user-images.githubusercontent.com/82583576/129484970-2489bce6-0b56-463f-b536-9f158dd76f5e.png)
+
+    
+ ![image](https://user-images.githubusercontent.com/82583576/129485026-9541d2a2-9efa-45a0-a525-1bccdc68b64e.png)
+   
+ 
+ ![image](https://user-images.githubusercontent.com/82583576/129485068-603394d0-ddec-4dbb-9fdf-7e0b0f0dcfe7.png)
   
-  ![image](https://user-images.githubusercontent.com/82583576/129484347-d92d2d5b-24b9-4caa-b8fd-2505a71122bc.png)
-
-
-## ***The total number of non-Vine reviews was 24,040.***
+ ##   
     
-   This was extracted using the following count function on the unpaid_vine_review DataFrame.
+ ![image](https://user-images.githubusercontent.com/82583576/129484347-d92d2d5b-24b9-4caa-b8fd-2505a71122bc.png)
+
     
-   ![image](https://user-images.githubusercontent.com/82583576/129484531-5f1d2d4f-e7d1-4aa4-99bd-6e48e65e4651.png)
+ ![image](https://user-images.githubusercontent.com/82583576/129485007-22d9cf20-0e3d-4d45-bfba-3e33f80feee9.png)
+    
+ 
+ ![image](https://user-images.githubusercontent.com/82583576/129485082-b1dd9d38-ff52-4b1e-94dd-5faeb7c99401.png)
+
+ ##   
+    
+   
+ ![image](https://user-images.githubusercontent.com/82583576/129484531-5f1d2d4f-e7d1-4aa4-99bd-6e48e65e4651.png)
+
+    
+ ![image](https://user-images.githubusercontent.com/82583576/129485118-a55e9def-4720-4857-b262-3ba14903c72a.png)
+
+  
+ ![image](https://user-images.githubusercontent.com/82583576/129485134-027eb4cf-c7af-4e6c-8c94-5aefe0a661fa.png)
+ 
+    
+    
+    
+
 
     
     
