@@ -186,12 +186,15 @@ The Vine reviews and non-Vine reviews with 5-star ratings were then extracted fr
 - Within the total sample of reviews, the small proportion (1.07%) of 5-star reviews from the Vine members will not create a bias.
 - Amongst the Vine members, the 5-star ratings amount to 40.61% of the Vine ratings. This relatively high percentage could indicate some bias. 
   
-A statistical analysis of the reviews, looking at the mean and standard deviations, provides some more insight into the reviews.
+- A statistical analysis of the reviews, looking at the mean and standard deviations, provides some more insight into the reviews.
     
 <p align="center">  	
 <image src="https://user-images.githubusercontent.com/82583576/129485925-64b65b05-00a7-4571-9748-ca6decaa5e12.png"
 </p>  
-    
+  
+The above statistical data were obtained using the "describe" function on the reviews DataFrames, as shown below:
+  
+  
 
 Although the number of Vine reviews is pretty low, so far it can still represent the product. However, the average rating from Vine customers is 4.38 with std deviation of 0.78, and this is much higher than the 3.77 from non-Vine customers.
 
