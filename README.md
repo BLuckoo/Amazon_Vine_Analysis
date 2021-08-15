@@ -23,6 +23,7 @@ PySpark was used to retrieve the reviews data using DataFrames. Filters, counts 
 Using Google Colab and PySpark, the reviews for Home Entertainment were extracted and and loaded into a DataFrame as illustrated below.
 
 
+  
 <p align="center">
 <image src="https://user-images.githubusercontent.com/82583576/129478139-2a41f3ae-0825-41e6-93a3-7f50b364558e.PNG"
 </p>
@@ -31,7 +32,6 @@ Using Google Colab and PySpark, the reviews for Home Entertainment were extracte
  
 1. The customer_id DataFrame was created by grouping the customer_id and counting the number of reviews by customer_id using the aggregate funstion in Python.
 
-https://github.com/BLuckoo/Amazon_Vine_Analysis/blob/main/Images/customer_id.PNG
   
 <p align="center">  
 <image src="https://user-images.githubusercontent.com/82583576/129478243-b895595e-e764-4e77-9589-45025630cbd7.PNG"
