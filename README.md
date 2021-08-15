@@ -92,7 +92,12 @@ The 4 DataFrames were then loaded to an AWS RDS instance using PostGreSQL. The f
 <image src="https://user-images.githubusercontent.com/82583576/129481371-19bf35f1-e27a-4733-95bb-884a26686db1.png"
 </p>
 
+
+3. The vine_review DataFrame was further filtered to include only reviews whereby (helpful_reviews/total_votes) were greater than or equal to 50%.
   
+<p align="center">  
+<image src="https://user-images.githubusercontent.com/82583576/129481465-96cbd75a-d7d4-4e85-be38-896dac805421.png"
+</p>
   
 
   
