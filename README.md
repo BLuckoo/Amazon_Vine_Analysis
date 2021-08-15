@@ -18,9 +18,9 @@ The analysis has been done using an ETL (Extract, Transform, Load) process using
 PySpark was used to retrieve the reviews data using DataFrames. Filters, counts and statistical functions were then used to analyze the data.   
   
 
-### Results of the analysis ###  
+## Results of the analysis ##  
 
-### Deliverable 1: ###
+### Part 1: Extracting the Amazon Reviews Dataset and loading the data into four different tables ###
   
 Using Google Colab and PySpark, the reviews for Home Entertainment were extracted and and loaded into a DataFrame as illustrated below.
 
@@ -75,7 +75,9 @@ The 4 DataFrames were then loaded to an AWS RDS instance using PostGreSQL. The f
 </p>  
 
  
-### Deliverable 2: ###  
+### Part 2: Filter the Vine reviews and determine if there is a bias in the Vine Reviews ###  
+  
+  
   
 ### Summary ###
   
