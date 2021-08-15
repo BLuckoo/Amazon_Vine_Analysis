@@ -109,15 +109,28 @@ The 4 DataFrames were then loaded to an AWS RDS instance using PostGreSQL. The f
 </p>
 
   
-     *Non-Vine members DataFrame*
+   *Non-Vine members DataFrame*
   
 <p align="center">
 <image src="https://user-images.githubusercontent.com/82583576/129481911-33a0983c-40fa-483d-8d52-e149ea5d6d61.png"
 </p>
   
-The Vine reviews and non-Vine reviews with 5-star ratings were then extracted from this filtered DataFrame.
+The Vine reviews and non-Vine reviews with 5-star ratings were then extracted from the "paid_vine_review" and "unpaid_vine_review" DataFrames by using a filter on the "star_rating" columns.
   
+  *5-Star Ratings from Vine Members*
   
+  <p align="center">
+  <image src="https://user-images.githubusercontent.com/82583576/129484069-8f077093-d1c7-4fa9-895f-f1a64cb77818.png"
+  </p>
+  
+    
+  *5-Star Ratings from Non-Vine Members*
+    
+  <p align="center">
+  <image src="https://user-images.githubusercontent.com/82583576/129484143-a66a0fc6-4ef7-4039-a13b-857f0781e819.png"
+  </p>
+  
+    
 ### Summary ###
   
 There is approximately a 5% difference of 5-star reviews in Vine to non-Vine reviews (40.61% to 45.34%).
