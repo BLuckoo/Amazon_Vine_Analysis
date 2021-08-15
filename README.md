@@ -77,16 +77,22 @@ The 4 DataFrames were then loaded to an AWS RDS instance using PostGreSQL. The f
  
 ### Part 2: Filter the Vine reviews and determine if there is a bias in the Vine Reviews ###  
 
-Using only certain elements of the Amazon Dataset, a vine_review DataFrame was created as follows:
+  
+1. Using only certain elements of the Amazon Dataset, a vine_review DataFrame was created as follows:
 
 <p align="center">  
 <image src="https://user-images.githubusercontent.com/82583576/129481294-ab0abc9c-4340-493f-866f-6f56055eb7d0.png"
 </p>
-  
-  
-  
-The vine_review DataFrame was filtered for total_votes greater than or equal to 20.
+ 
 
+ 
+2. The vine_review DataFrame was filtered for total_votes greater than or equal to 20.
+  
+<p align="center">
+<image src="https://user-images.githubusercontent.com/82583576/129481371-19bf35f1-e27a-4733-95bb-884a26686db1.png"
+</p>
+
+  
   
 
   
