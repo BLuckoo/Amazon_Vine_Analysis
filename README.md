@@ -199,6 +199,7 @@ The above statistical data were obtained using the "describe" function on the re
 </p>
   
 
-Although the number of Vine reviews is pretty low, so far it can still represent the product. However, the average rating from Vine customers is 4.38 with std deviation of 0.78, and this is much higher than the 3.77 from non-Vine customers.
+The average rating from Vine members is 4.11 with standard deviation of 0.95.
+The average rating from non-Vine members is 3.61 with standard deviation of 1.58.
 
-I believe the Vine customers tend to give higher ratings and pretty focusing on the higher ratings too. So reviews from Vine customers are not that trustworthy for me.
+This is an indication that the Vine members tend to give higher ratings. So, the reviews indicate that there is a bias towards higher ratings from the Vine members.
