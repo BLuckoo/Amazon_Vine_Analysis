@@ -139,7 +139,7 @@ The Vine reviews and non-Vine reviews with 5-star ratings were then extracted fr
 ##  The following table summarizes the number Vine and non-Vine reviews:  
  
   <p align="center">	
-  <image src="https://user-images.githubusercontent.com/82583576/129484766-5cf04440-8c25-47c9-b38f-b47a9f84d07c.png"
+  <image src="https://user-images.githubusercontent.com/82583576/129485296-48273c78-3bd5-4035-a1c0-b3ef8c7aba59.png"
   </p>
     
     
@@ -177,14 +177,11 @@ The Vine reviews and non-Vine reviews with 5-star ratings were then extracted fr
  
     
     
-    
-
-
-    
-    
+##     
+##    
 ### Summary ###
   
-There is approximately a 5% difference of 5-star reviews in Vine to non-Vine reviews (40.61% to 45.34%).
+As illustrated above, there is approximately a 5% difference of 5-star reviews in Vine to non-Vine reviews (40.61% to 45.34%).
 
 Although the number of Vine reviews is pretty low, so far it can still represent the product. However, the average rating from Vine customers is 4.38 with std deviation of 0.78, and this is much higher than the 3.77 from non-Vine customers.
 
