@@ -190,6 +190,8 @@ The Vine reviews and non-Vine reviews with 5-star ratings were then extracted fr
 However, for a proper determination of the existence of bias towards high ratings amongst Vine members, more analysis is required:
     
 - 5-star ratings amount to 40.61% of the Vine ratings. This relatively high percentage could potentially indicate some bias. Further insight of the reviews by Vine members may be required. Such further analysis would include a review of the distribution of the ratings.
+    
+    
   
 - A statistical analysis of the reviews, looking at the mean and standard deviations, provides some more insight into the reviews.
     
