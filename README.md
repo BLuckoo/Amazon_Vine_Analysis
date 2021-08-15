@@ -191,7 +191,9 @@ However, for a proper determination of the existence of bias towards high rating
     
 - 5-star ratings amount to 40.61% of the Vine ratings. This relatively high percentage could potentially indicate some bias. 
   A review of the distribution of the Vine ratings does indicate a potential bias towards the higher star-ratings - 5-star & 4-star ratings make up approximately 78% ofall ratings from the Vine members. 
+    
 This is illustrated below:
+ 
     
 <p align="center">
 <image src="https://user-images.githubusercontent.com/82583576/129492615-459cf0c7-cafa-4f7b-940c-89ab6380ea37.png"
