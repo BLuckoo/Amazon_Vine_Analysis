@@ -28,7 +28,7 @@ https://github.com/BLuckoo/Amazon_Vine_Analysis/blob/main/Images/AWSData.PNG
 <image src="https://user-images.githubusercontent.com/82583576/129478139-2a41f3ae-0825-41e6-93a3-7f50b364558e.PNG"
 </p>
   
-*The dataset was then transformed into 4 DataFrames as shown below:*
+**The dataset was then transformed into 4 DataFrames as shown below:**
  
 1. The customer_id DataFrame was created by grouping the customer_id and counting the number of reviews by customer_id using the aggregate funstion in Python.
 
@@ -36,15 +36,22 @@ https://github.com/BLuckoo/Amazon_Vine_Analysis/blob/main/Images/AWSData.PNG
 <image src="https://user-images.githubusercontent.com/82583576/129478243-b895595e-e764-4e77-9589-45025630cbd7.PNG"
 </p>
   
+
+2. The products DataFrame was created by selecting "product_id" and "product_title" from the reviews DataFrame and the "drop_duplicates" function was used to retrieve only unique product_ids from the reviews DataFrame.
   
-![product_id](https://user-images.githubusercontent.com/82583576/129478257-57a4c838-8264-4e85-9262-5a2ecbc3eef8.PNG)
+<p align="center">   
+<image src="https://user-images.githubusercontent.com/82583576/129478257-57a4c838-8264-4e85-9262-5a2ecbc3eef8.PNG"
+</p>
 
   
-![review_id](https://user-images.githubusercontent.com/82583576/129478263-7fdbec3c-d06e-433c-8526-8b2f064c2818.PNG)
+<p align="center">  
+<image src="https://user-images.githubusercontent.com/82583576/129478263-7fdbec3c-d06e-433c-8526-8b2f064c2818.PNG"
+</p>
 
-
-![vine_id](https://user-images.githubusercontent.com/82583576/129478270-e2758571-2ad0-48d9-8041-39cac48a41ab.PNG)
-
+  
+<p align="center">  
+<image src="https://user-images.githubusercontent.com/82583576/129478270-e2758571-2ad0-48d9-8041-39cac48a41ab.PNG"
+</p>
   
   
 ### Summary ###
