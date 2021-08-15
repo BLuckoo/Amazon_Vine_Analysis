@@ -192,7 +192,7 @@ The Vine reviews and non-Vine reviews with 5-star ratings were then extracted fr
 <image src="https://user-images.githubusercontent.com/82583576/129485925-64b65b05-00a7-4571-9748-ca6decaa5e12.png"
 </p>  
   
-<p align="center"><The statistical data, illustrated above, were obtained using the "describe" function on the reviews DataFrames, as shown below:</p>
+    The statistical data, illustrated above, were obtained using the "describe" function on the reviews DataFrames, as shown below:
   
 <p align="center">
 <image src="https://user-images.githubusercontent.com/82583576/129486999-829f1a70-0572-4162-8557-4d75b5f43cd3.png"
